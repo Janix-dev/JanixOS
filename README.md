@@ -9,7 +9,7 @@ So, please don't be mad or angry with the codes' problems.
 
 (2) Dependencies(current)
   - qemu
-  Ubuntu/debian :
+  [Ubuntu/debian]
   sudo apt-get install qemu-system
   - make
   - nasm
