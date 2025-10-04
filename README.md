@@ -8,11 +8,11 @@ This is made by a korean student, Yumin Jang.And This is just a hobby.
 So, please don't be mad or angry with the codes' problems.
 
 || (2) Dependencies(current) ||
-  - qemu
+  1. qemu
   Ubuntu/debian
   sudo apt-get install qemu-system
-  - make
-  - nasm
+  2. make
+  3. nasm
 || (3) How to Build ||
   1. run 'make' command to compile everything
   2. run 'make run' command to run it on qemu-system-i386
