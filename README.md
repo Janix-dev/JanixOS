@@ -13,7 +13,8 @@ So, please don't be mad or angry with the codes' problems.
   sudo apt-get install qemu-system
   2. make
   3. nasm
-|| (3) How to Build ||
+
+|| (3) How to build ||
   1. run 'make' command to compile everything
   2. run 'make run' command to run it on qemu-system-i386
   3. run 'make clean' command to clean up compiled files
